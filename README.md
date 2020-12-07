@@ -6,7 +6,7 @@ Sentiment analysis docker image for simplified setup
 Pull images
 
 ```shell
-git clone https://github.com/LiveHelperChat/sentiment
+git clone https://github.com/LiveHelperChat/sentiment && cd sentiment
 docker-compose -f docker-compose.yml pull
 wget https://livehelperchat.com/var/deep.tgz
 tar zxfv deep.tgz
