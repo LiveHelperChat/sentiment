@@ -30,4 +30,5 @@ Testing
 curl -X POST "http://localhost:5000/model" -H "accept: application/json" -H "Content-Type: application/json" -d "{\"x\":[\"all went no so good, but could have been better\"]}"
 ```
 
-For Live Helper Chat configuration read manual here (will be updated)
+For Live Helper Chat configuration read manual 
+https://doc.livehelperchat.com/docs/bot/sentiment-analysis
